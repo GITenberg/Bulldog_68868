@@ -10,6 +10,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '33952'
     url: http://www.gutenberg.org/2009/agents/33952
+covers:
+- cover_type: archival
+  image_path: 68868-h/images/cover.jpg
 creator:
   author:
     agent_name: Brand, Max
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/743
     wikipedia: https://en.wikipedia.org/wiki/Max_Brand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68868#Bulldog
 gutenberg_issued: '2022-08-30'
 identifiers:
   gutenberg: '68868'
